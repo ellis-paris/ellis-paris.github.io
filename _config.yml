@@ -1,12 +1,12 @@
 # Usign the Clean Blog theme
 
-title: Data@PSL
-author: data-psl
+title: Paris Ellis Unit
+author: ellis-paris
 email: gabriel.peyre@ens.fr
-description: Data@PSL Program
+description: Paris Ellis Unit
 baseurl: ""
-url: "https://data-psl.github.io/"
-github_username:  data-psl
+url: "https://ellis-paris.github.io/"
+github_username:  ellis-paris
 
 # Build settings
 markdown: kramdown
@@ -14,7 +14,7 @@ permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
 
-name: Data@PSL
+name: ellis-paris
 gems:
   - jekyll-feed
   - jekyll-paginate
