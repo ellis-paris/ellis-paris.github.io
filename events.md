@@ -5,7 +5,7 @@ description: "Paris Ellis Unit"
 header-img: "img/paris-2.jpg"
 ---
 
-Event
+Events
 ---
 
 Here is a list of events organized or co-organized by the Paris Unit:
@@ -14,7 +14,7 @@ Here is a list of events organized or co-organized by the Paris Unit:
 
 
 
-Student exchange program
+Students exchange program
 ---
 
-Ellis organize [PhD and postdoc exchange program](https://ellis.eu/phd-postdoc). If you would like to organize such an exchange within the Paris area, [do not hesitate to contact us](mailto:gabriel.peyre@ens.fr).
+Ellis organizes [PhD and postdoc exchange programs](https://ellis.eu/phd-postdoc). If you would like to organize such an exchange within the Paris area, [do not hesitate to contact us](mailto:gabriel.peyre@ens.fr).
