@@ -18,7 +18,6 @@ The local coordinators helps to manage the Unit in the different research center
 - Matthieu Cord	(Sorbonne U.)
 - Emmanuel Dupoux	(EHESS)
 - Isabelle Guyon	(U. Paris-Sud)
-- Florent Krzakala	(Sorbonne U.)
 - Ivan Laptev	(INRIA Paris)
 - Stéphane Mallat	(Collège de F.)
 - Mathilde Mougeot	(ENSIIE)
