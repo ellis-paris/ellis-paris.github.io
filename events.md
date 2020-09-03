@@ -2,7 +2,7 @@
 layout: page
 title: "Events"
 description: "Paris Ellis Unit"
-header-img: "img/paris-2.jpg"
+header-img: "img/paris-3.jpg"
 ---
 
 Events
