@@ -20,6 +20,6 @@ You can find in the [members section](members/) a list of local coordinators spr
 Mailing list
 ---
 
-Send [an email to subscribe](mailto:gabriel.peyre@ens.fr) to our mailing list and be informed about the events and projects developed by the unit.
+[You can register to our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdeZw4oH4GmuLKQ_4IlN3iCPAyeDrOM-9s1mdXvxahNorbUtw/viewform?usp=pp_url) to be informed about the events and projects developed by the unit.
 
 ![logo](img/EllisUnit-small.png)
