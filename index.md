@@ -1,0 +1,23 @@
+---
+layout: page
+title: "Paris Ellis Unit"
+description: "Artificial Intelligence in Paris and Europe"
+header-img: "img/paris-1.jpg"
+---
+
+Welcome to the homepage of the Paris Ellis Unit. Its goal is to actively participate in the coordination of actions around artificial intelligence in the Paris region, in interaction with other members of the ELLIS network.
+
+---
+Our vision
+
+Our vision for this unit is to be as open as possible and to help lots of people to create new exciting projects. This will include teaching programs, conferences, students funding and exchange. The Unit will favor interdisciplinary research and be as inclusive as possible, with a particular emphasis on diversity and gender equality. The artificial intelligence ecosystem in Paris is huge, and it integrates lots of different institutions over a wide geographic area. The goal of our unit is not to create yet another institute, but to help all the people in these institutions to collaborate within the Ellis network.
+
+---
+Joining the Unit
+
+You can find in the [members section](members/) a list of local coordinators spread over the Paris area. You can contact your closest coordinator for more information to join the Unit. You [can contact us](mailto:gabriel.peyre@ens.fr) if you would like to become a local coordinator.
+
+---
+Mailing list
+
+Send [an email to subscribe](mailto:gabriel.peyre@ens.fr) to subscribe to our mailing list and be informed about the events and projects developed by the unit.
