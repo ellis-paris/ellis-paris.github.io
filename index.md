@@ -38,3 +38,13 @@ Supporting institutions
 <img src="img/logo-saclay.png" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/logo-sorbonne.png" width="200"/>
 </div>
+
+Collaborating AI institutes
+---
+
+
+<div align="center">
+<img src="img/logo-dataia.png" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="img/logo-prairie.jpg" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="img/logo-scai.jpg" width="200"/>
+</div>
