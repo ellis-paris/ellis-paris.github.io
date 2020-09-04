@@ -22,8 +22,6 @@ Mailing list
 
 [You can register to our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdeZw4oH4GmuLKQ_4IlN3iCPAyeDrOM-9s1mdXvxahNorbUtw/viewform?usp=pp_url) to be informed about the events and projects developed by the unit.
 
-![logo](img/EllisUnit-small.png)
-
 
 Supporting institutions
 ---
