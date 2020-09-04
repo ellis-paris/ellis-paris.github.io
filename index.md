@@ -34,10 +34,10 @@ Supporting institutions
 <img src="img/logo-ipp.jpg" width="200"/><br/>
 <img src="img/logo-psl.jpg" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/logo-saclay.png" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="img/logo-sorbonne.png" width="200"/>
+<img src="img/logo-sorbonne.png" width="200"/><br/>
 </div>
 
-Collaborating AI institutes
+Collaborating AI Initiatives
 ---
 
 
