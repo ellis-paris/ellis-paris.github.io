@@ -7,25 +7,25 @@ header-img: "img/paris-2.jpg"
 
 Local coordinators help to manage the Unit in the different research centers in the Paris area:
 
-- Florence d’Alché-Buc	(Telecom Paris)
-- Stéphanie Allassonnière	(U. de Paris)
-- Alexandre d’Aspremont	(CNRS and ENS)
-- Chloé-Agathe Azencott	(Mines P.)
+- Florence d’Alché-Buc	(Télécom Paris)
+- Stéphanie Allassonnière	(Université de Paris)
+- Alexandre d’Aspremont	(CNRS)
+- Chloé-Agathe Azencott	(Mines ParisTech - PSL)
 - Francis Bach	(INRIA)
-- Gérard Biau	(Sorbonne U.) - co-director
-- Gilles Blanchard	(U. Paris-Sud)
-- Alejandrina Cristia	(CNRS and ENS)
-- Matthieu Cord	(Sorbonne U.)
+- Gérard Biau	(Sorbonne Université) - co-director
+- Gilles Blanchard	(Université Paris-Saclay)
+- Alejandrina Cristia	(CNRS)
+- Matthieu Cord	(Sorbonne Université)
 - Emmanuel Dupoux	(EHESS)
-- Isabelle Guyon	(U. Paris-Sud)
-- Ivan Laptev	(INRIA Paris)
-- Stéphane Mallat	(Collège de F.)
-- Mathilde Mougeot	(ENSIIE)
-- Eric Moulines	(Polytechnique)
-- Gabriel Peyré	(CNRS and ENS) - co-director
-- Jean Ponce	(INRIA Paris)
-- Christian Robert	(U. Paris Dauphine)
-- Michèle Sebag	(CNRS and U. Paris-Sud))
+- Isabelle Guyon	(Université Paris-Saclay)
+- Ivan Laptev	(INRIA)
+- Stéphane Mallat	(Collège de France - PSL)
+- Mathilde Mougeot (ENSIIE)
+- Eric Moulines	(Ecole Polytechnique)
+- Gabriel Peyré	(CNRS) - director
+- Jean Ponce	(INRIA)
+- Christian Robert	(Université Paris Dauphine - PSL)
+- Michèle Sebag	(CNRS)
 - Cordelia Schmid	(INRIA)
 - Bertrand Thirion	(INRIA) - co-director
-- Nicolas Vayatis	(ENS P. Saclay)
+- Nicolas Vayatis	(ENS Paris-Saclay)
