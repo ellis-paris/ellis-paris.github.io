@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Local coordinators"
-description: "Paris Ellis Unit"
+description: "Paris ELLIS Unit"
 header-img: "img/paris-2.jpg"
 ---
 
-The local coordinators helps to manage the Unit in the different research centers in the Paris area:
+Local coordinators help to manage the Unit in the different research centers in the Paris area:
 
 - Florence d’Alché-Buc	(Telecom Paris)
 - Stéphanie Allassonnière	(U. de Paris)
