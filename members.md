@@ -13,6 +13,7 @@ Local coordinators help to manage the Unit in the different research centers in 
 - Chloé-Agathe Azencott	(Mines ParisTech - PSL)
 - Francis Bach	(INRIA)
 - Gérard Biau	(Sorbonne Université) - co-director
+- Giulio Biroli (PSL)
 - Gilles Blanchard	(Université Paris-Saclay)
 - Alejandrina Cristia	(CNRS)
 - Matthieu Cord	(Sorbonne Université)
