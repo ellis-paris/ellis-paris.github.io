@@ -5,7 +5,23 @@ description: "Paris ELLIS Unit"
 header-img: "img/paris-3.jpg"
 ---
 
-Events
+Seminars
+---
+
+Here is a list of seminars organized in the perimeter of the unit:
+- [DATAIA Seminars](http://dataia.eu/en/trainings/dataia-seminars)
+- [Séminaire Palaisien](https://palaisien.herokuapp.com)
+- [Prairie colloquium](https://prairie-institute.fr/colloquium-prairie/)
+- [Data@ENS colloquium](https://data-ens.github.io/seminar/)
+- [Digital Humanities / Artificial Intelligence Seminar](https://dhai-seminar.github.io/)
+
+Conferences and workshops
+---
+
+- [Geometric Science of Information 2021](https://www.see.asso.fr/en/GSI2021), Paris, July 21-23 2021.
+- [Tübingen/Paris Student Workshop](), January 2021.  
+
+Courses and Events
 ---
 
 Here is a list of events organized or co-organized by the Paris Unit:
