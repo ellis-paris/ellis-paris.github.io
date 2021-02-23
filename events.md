@@ -21,6 +21,7 @@ Conferences and workshops
 
 - [Geometric Science of Information 2021](https://www.see.asso.fr/en/GSI2021), Paris, July 21-23 2021.
 - [Tübingen/Paris Student Workshop](), 2021.  
+- [Workshop on Foundations of Algorithmic Fairness](https://sites.google.com/view/faf-workshop)
 
 Courses and Events
 ---
