@@ -31,6 +31,10 @@ Here is a list of events organized or co-organized by the Paris Unit:
 - [PSL preparation courses on machine learning](https://data-psl.github.io/preparatory-week/), August 31st to September 4th 2020, online.
 
 
+Events labelled by ELLIS Paris
+---
+
+- [ICLR 2021 Computational Geometry & Topology Challenge](events-2021-ICLR-challenge)
 
 Student exchange program
 ---
