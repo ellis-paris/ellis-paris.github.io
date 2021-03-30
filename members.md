@@ -18,6 +18,7 @@ Local coordinators help to manage the Unit in the different research centers in 
 - Alejandrina Cristia	(CNRS)
 - Matthieu Cord	(Sorbonne Université)
 - Emmanuel Dupoux	(EHESS)
+- Rémi Flamary (Ecole Polytechnique)
 - Isabelle Guyon	(Université Paris-Saclay)
 - Ivan Laptev	(INRIA)
 - Stéphane Mallat	(Collège de France - PSL)
