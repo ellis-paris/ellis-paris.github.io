@@ -29,6 +29,7 @@ Courses and Events
 Here is a list of events organized or co-organized by the Paris Unit:
 
 - [PSL preparation courses on machine learning](https://data-psl.github.io/preparatory-week/), August 31st to September 4th 2020, online.
+- [2021 French-German Summer-School on Artificial Intelligence with Industry](https://ingenuity.siemens.com/events/french-german-summerschool-on-artificial-intelligence-with-industry-2021/)
 
 
 Events labelled by ELLIS Paris
