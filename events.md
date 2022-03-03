@@ -19,7 +19,7 @@ Here is a list of seminars organized in the perimeter of the unit:
 Conferences and workshops
 ---
 
-- [International Conference on Bayesian and Maximum Entropy methods in Science and Engineering - MaxEnt'22](https://see.asso.fr/maxent22/), Paris, July 18-22 2022.
+- [International Conference on Bayesian and Maximum Entropy methods in Science and Engineering - MaxEnt'22](https://maxent22.see.asso.fr/), Paris, July 18-22 2022.
 - [Geometric Science of Information 2021](https://www.see.asso.fr/en/GSI2021), Paris, July 21-23 2021.
 - [Tübingen/Paris Student Workshop](), 2021.  
 - [Workshop on Foundations of Algorithmic Fairness](https://sites.google.com/view/faf-workshop)
