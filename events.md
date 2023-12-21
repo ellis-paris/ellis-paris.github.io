@@ -16,7 +16,8 @@ Here is a list of seminars organized in the perimeter of the unit:
 - [Digital Humanities / Artificial Intelligence Seminar](https://dhai-seminar.github.io/)
 - [AI for Climate seminar](https://ai4climate.lip6.fr/list-of-the-seminars/)
 - [Book Club ML and Humanities (Sorbonne)](https://scai.sorbonne-universite.fr/public/events/view/b608465149c6416cb584/1)
-- 
+
+ 
 Conferences and workshops
 ---
 
